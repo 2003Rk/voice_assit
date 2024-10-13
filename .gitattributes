@@ -1,0 +1,7 @@
+ios/* linguist-vendored
+android/* linguist-vendored
+*.dart linguist-language=Dart
+git add .gitattributes
+git commit -m "Specify Dart as the primary language"
+git push -u origin main
+
